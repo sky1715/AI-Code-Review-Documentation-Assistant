@@ -250,8 +250,8 @@ Building this project taught me end-to-end GenAI application development:
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/sky1715)
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/suraj-kumar1619/)
+- GitHub: [@sky1715](https://github.com/sky1715)
+- LinkedIn: [linkedin.com/in/suraj-kumar1619](https://www.linkedin.com/in/suraj-kumar1619/)
 
 ---
 
